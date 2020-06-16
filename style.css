@@ -1,0 +1,48 @@
+body{
+    background-color: rgb(0, 0, 0);
+}
+.main{
+    width: 365px;
+    height: 526px;
+    background-color: rgb(56, 56, 56);
+    margin: auto;
+    margin-top: 100px;
+    box-shadow: white;
+}
+
+.screen{
+    width: 362px;
+    height: 124px;
+    background-color: blue;
+    border: none;
+    margin-left: -1px;
+    font-size: larger;
+    pointer-events: none;
+    font-weight: bolder;
+}
+
+.bt{
+    width: 88.2px;
+    height: 80px;
+    display:inline-block;
+    border: none;
+    background-color: rgb(141, 141, 141);
+    font-size: 26px;
+    font-family:arial;
+    font-weight: inherit;
+}
+
+.bt1{
+    width: 180.4px;
+    height: 79px;
+    background-color: rgb(141, 141, 141);
+    font-size: 26px;
+    font-family:arial;
+    font-weight: inherit;
+    border: none;
+    position: relative;
+    
+}
+.bt:hover{
+    background-color: rgb(86, 255, 71);
+}
